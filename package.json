@@ -140,7 +140,7 @@
   ],
   "license": "MIT",
   "main": "lib/element-ui.common.js",
-  "name": "element-ui",
+  "name": "element-ui2",
   "peerDependencies": {
     "vue": "^2.5.17"
   },
